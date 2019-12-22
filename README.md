@@ -3,7 +3,7 @@
 ## How to use
 Install : ```pip install ailab-api```
 
-This version : ```pip install ailab-api==0.3```
+This version : ```pip install ailab-api==0.6```
 
 Upgrade : ```pip install --upgrade ailab-api```
 
