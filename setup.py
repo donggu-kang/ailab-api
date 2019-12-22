@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='ailab-api',
-    version='0.3',
+    version='0.4',
     description='ailab-daejin-restful-api',
     author='donggu.kang',
     author_email='kang154123@naver.com',
     url='https://github.com/GoopyAspirin/ailab-api',
-    download_url='https://github.com/GoopyAspirin/ailab-api/download/ailab_api-0.3.tar.gz',
+    download_url='https://github.com/GoopyAspirin/ailab-api/download/ailab-api-0.4.tar.gz',
     keywords=['api'],
     python_requires='>=3',
     zip_safe=False,

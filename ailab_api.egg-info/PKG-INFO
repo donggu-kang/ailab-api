@@ -1,12 +1,12 @@
 Metadata-Version: 1.2
 Name: ailab-api
-Version: 0.3
+Version: 0.4
 Summary: ailab-daejin-restful-api
 Home-page: https://github.com/GoopyAspirin/ailab-api
 Author: donggu.kang
 Author-email: kang154123@naver.com
 License: UNKNOWN
-Download-URL: https://github.com/GoopyAspirin/ailab-api/download/ailab_api-0.3.tar.gz
+Download-URL: https://github.com/GoopyAspirin/ailab-api/download/ailab-api-0.4.tar.gz
 Description: UNKNOWN
 Keywords: api
 Platform: UNKNOWN
