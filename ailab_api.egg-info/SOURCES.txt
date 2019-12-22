@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+ailab_api.egg-info/PKG-INFO
+ailab_api.egg-info/SOURCES.txt
+ailab_api.egg-info/dependency_links.txt
+ailab_api.egg-info/not-zip-safe
+ailab_api.egg-info/top_level.txt

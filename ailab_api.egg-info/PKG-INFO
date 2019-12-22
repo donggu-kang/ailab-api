@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: ailab-api
+Version: 0.3
+Summary: ailab-daejin-restful-api
+Home-page: https://github.com/GoopyAspirin/ailab-api
+Author: donggu.kang
+Author-email: kang154123@naver.com
+License: UNKNOWN
+Download-URL: https://github.com/GoopyAspirin/ailab-api/download/ailab_api-0.3.tar.gz
+Description: UNKNOWN
+Keywords: api
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3
