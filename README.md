@@ -11,9 +11,9 @@ Import : ```import ailab_api```
 
 ### Example Code 
 ```python
->>> from ailab_api.sendMsg import sendSms
+>>> from ailab_api.sendMsg import send_sms
 
->>> response = sendSms('[TEST] TEST SMS 12345','01012341234','API Key Here')
+>>> response = send_sms('[TEST] TEST SMS 12345','01012341234','API Key Here')
 # response = sendSms(text='[TEST] TEST SMS 12345',phone='01012341234',key='API Key Here')
 >>> print(response)
 {'text': '[OK] : 200 - [TEST] TEST SMS 12345'}
