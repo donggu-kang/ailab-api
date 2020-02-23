@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ailab-api',
-    version='0.6',
+    version='0.7',
     description='ailab-daejin-restful-api',
     author='donggu.kang',
     author_email='kang154123@naver.com',
